@@ -1,0 +1,12 @@
+C:\S533705\44663\SortComparison_src\SortComparison\bin\Debug\SortComparison.exe
+C:\S533705\44663\SortComparison_src\SortComparison\bin\Debug\SortComparison.pdb
+C:\S533705\44663\SortComparison_src\SortComparison\bin\Debug\Gif.Components.dll
+C:\S533705\44663\SortComparison_src\SortComparison\bin\Debug\Gif.Components.pdb
+C:\S533705\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csprojAssemblyReference.cache
+C:\S533705\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.frmMain.resources
+C:\S533705\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
+C:\S533705\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
+C:\S533705\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
+C:\S533705\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
+C:\S533705\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.exe
+C:\S533705\44663\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.pdb
