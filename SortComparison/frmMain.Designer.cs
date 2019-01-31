@@ -124,7 +124,8 @@ namespace SortComparison
             this.cmdSort.Size = new System.Drawing.Size(75, 23);
             this.cmdSort.TabIndex = 5;
             this.cmdSort.Text = "Sort";
-           
+            this.cmdSort.BackColor = System.Drawing.Color.DarkRed;
+            this.cmdSort.ForeColor = System.Drawing.Color.LightGreen;
             this.cmdSort.UseVisualStyleBackColor = true;
             this.cmdSort.Click += new System.EventHandler(this.cmdSort_Click);
             // 
