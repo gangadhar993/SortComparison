@@ -29,8 +29,8 @@ namespace SortComparison
 
         private void Form1_Load(object sender, EventArgs e)
         {
+
          
-            this.cmdShuffle.PerformClick();
 
         }
 

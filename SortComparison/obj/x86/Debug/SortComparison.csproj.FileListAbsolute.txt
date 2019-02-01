@@ -22,3 +22,15 @@ C:\Users\S533622\Documents\44663\SortComparison\SortComparison\obj\x86\Debug\Sor
 C:\Users\S533622\Documents\44663\SortComparison\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
 C:\Users\S533622\Documents\44663\SortComparison\SortComparison\obj\x86\Debug\SortComparison.exe
 C:\Users\S533622\Documents\44663\SortComparison\SortComparison\obj\x86\Debug\SortComparison.pdb
+C:\Users\S533491\Documents\2nd Semester\44663\SortComparison\SortComparison\bin\Debug\SortComparison.exe
+C:\Users\S533491\Documents\2nd Semester\44663\SortComparison\SortComparison\bin\Debug\SortComparison.pdb
+C:\Users\S533491\Documents\2nd Semester\44663\SortComparison\SortComparison\bin\Debug\Gif.Components.dll
+C:\Users\S533491\Documents\2nd Semester\44663\SortComparison\SortComparison\bin\Debug\Gif.Components.pdb
+C:\Users\S533491\Documents\2nd Semester\44663\SortComparison\SortComparison\obj\x86\Debug\SortComparison.csprojAssemblyReference.cache
+C:\Users\S533491\Documents\2nd Semester\44663\SortComparison\SortComparison\obj\x86\Debug\SortComparison.frmMain.resources
+C:\Users\S533491\Documents\2nd Semester\44663\SortComparison\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
+C:\Users\S533491\Documents\2nd Semester\44663\SortComparison\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
+C:\Users\S533491\Documents\2nd Semester\44663\SortComparison\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
+C:\Users\S533491\Documents\2nd Semester\44663\SortComparison\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
+C:\Users\S533491\Documents\2nd Semester\44663\SortComparison\SortComparison\obj\x86\Debug\SortComparison.exe
+C:\Users\S533491\Documents\2nd Semester\44663\SortComparison\SortComparison\obj\x86\Debug\SortComparison.pdb
