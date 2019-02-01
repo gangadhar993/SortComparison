@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Components",
+    "\\SortComparison"
   ],
-  "SelectedNode": "\\SortComparison.sln",
+  "SelectedNode": "\\SortComparison\\frmMain.Designer.cs",
   "PreviewInSolutionExplorer": false
 }
