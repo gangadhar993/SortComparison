@@ -77,11 +77,12 @@ namespace SortComparison
             this.cboAlg1.Name = "cboAlg1";
             this.cboAlg1.Size = new System.Drawing.Size(200, 21);
             this.cboAlg1.TabIndex = 2;
-            this.cboAlg1.BackColor = Color.FromArgb(255, 232, 232); //System.Drawing.Color.DarkViolet;
+            this.cboAlg1.BackColor = System.Drawing.Color.DarkGreen; //Color.FromArgb(255, 232, 232); 
             this.cboAlg1.SelectedIndex = 3;
             // 
             // cboAlg2
             // 
+            this.cboAlg2.BackColor = System.Drawing.Color.DarkViolet;
             this.cboAlg2.FormattingEnabled = true;
             this.cboAlg2.Items.AddRange(new object[] {
             "",
@@ -114,7 +115,7 @@ namespace SortComparison
             this.cmdShuffle.TabIndex = 4;
             this.cmdShuffle.Text = "Shuffle";
             this.cmdShuffle.UseVisualStyleBackColor = true;
-            this.cmdSort.BackColor = System.Drawing.Color.DarkViolet;
+            this.cmdSort.BackColor = System.Drawing.Color.Red;
             this.cmdShuffle.Click += new System.EventHandler(this.cmdShuffle_Click);
             // 
             // cmdSort
@@ -124,8 +125,8 @@ namespace SortComparison
             this.cmdSort.Size = new System.Drawing.Size(75, 23);
             this.cmdSort.TabIndex = 5;
             this.cmdSort.Text = "Sort";
-            this.cmdSort.BackColor = System.Drawing.Color.DarkRed;
-            this.cmdSort.ForeColor = System.Drawing.Color.LightGreen;
+            this.cmdSort.BackColor = System.Drawing.Color.DarkGreen;
+            this.cmdSort.ForeColor = System.Drawing.Color.DarkMagenta;
             this.cmdSort.UseVisualStyleBackColor = true;
             this.cmdSort.Click += new System.EventHandler(this.cmdSort_Click);
             // 
