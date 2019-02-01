@@ -258,10 +258,7 @@ namespace SortComparison
             }
         }
 
-        private string InitializeOutputFolder()
-        {
-            return AppDomain.CurrentDomain.BaseDirectory.ToString() + "\\output";
-        }
+       
 
     }
 }
